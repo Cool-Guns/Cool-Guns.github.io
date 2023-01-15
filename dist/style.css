@@ -139,6 +139,17 @@ button:hover {
           filter: drop-shadow(0 0 0 #960340);
 }
 
+.btn5 {
+  background-color: var(--instagram3);
+  -webkit-filter: drop-shadow(8px 8px 1px #926623);
+          filter: drop-shadow(8px 8px 1px #926623);
+}
+
+.btn5:hover {
+  -webkit-filter: drop-shadow(0 0 0 #926623);
+          filter: drop-shadow(0 0 0 #926623);
+}
+
 @media screen and (max-width: 800px) {
   .buttons {
     width: 80px;
