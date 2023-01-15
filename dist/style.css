@@ -182,6 +182,18 @@ button:hover {
   .buttons {
     width: 80px;
   }
+  .playercount {
+		font-size: 1.22em;
+		padding: 10px;
+	}
+
+	.extrapad {
+		padding: 0 42.5px;
+	}
+
+	.playercount > p > span {
+		padding: 4px 7px;
+	}
 }
 
 /* Config */
